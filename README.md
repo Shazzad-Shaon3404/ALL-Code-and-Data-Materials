@@ -48,6 +48,15 @@ https://drive.google.com/drive/folders/1YcPFQ6-dPNCFY3hGrHlfmHiF09a8UxuA?usp=dri
 
 Some datasets and project files are very large and exceed GitHub storage limitations. Therefore, several resources and datasets have been provided through Google Drive instead of directly uploading them to GitHub.
 
+## GHSA Dataset
+
+The complete GHSA dataset file is very large and exceeds GitHub storage limitations. Therefore, the dataset has been provided separately through Google Drive.
+
+📄 **GHSA Dataset Download:**  
+https://drive.google.com/file/d/1vrDHe8jDH1157j2N1VETeRzKB44EfNeP/view?usp=sharing
+
+---
+
 ---
 
 # Research Areas
