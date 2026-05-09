@@ -18,17 +18,13 @@ The folder includes:
 
 ---
 
-## GHSA Dataset
+## GHSA Dataset and Code
 
 The complete GHSA dataset file is very large and exceeds GitHub storage limitations. Therefore, the dataset has been provided separately through Google Drive.
 
-📄 **GHSA Dataset Download:**  
+📄 **GHSA Dataset and Code Download:**  
 https://drive.google.com/file/d/1vrDHe8jDH1157j2N1VETeRzKB44EfNeP/view?usp=sharing
 
 ---
 
-## Notes
 
-If you use this repository or dataset in your research, please consider citing the associated paper and acknowledging the project appropriately.
-
-Thank you for your interest in our work.
